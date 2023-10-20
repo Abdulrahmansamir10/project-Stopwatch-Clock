@@ -1,0 +1,16 @@
+.stop{
+    width: 200px;
+    height: 150px;
+    background-color: #fff;
+    border: 1px solid #1965d6;
+    border-radius: 20px;
+    margin: 50px auto;
+    text-align: center;
+}
+.ss{
+    margin-top: 20px;
+}
+
+.hours{
+    text-align: center;
+}
